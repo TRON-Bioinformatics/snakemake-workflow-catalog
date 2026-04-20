@@ -8252,6 +8252,10 @@
     "updated_at": 1742214021.0
   },
   {
+    "full_name": "cbib/nbd_extraction_pipeline",
+    "updated_at": 1776160984.0
+  },
+  {
     "full_name": "cbib/uncertainty_aware_lnclassifier",
     "updated_at": 1776185256.0
   },
@@ -13793,7 +13797,7 @@
   },
   {
     "full_name": "mionoyui/structural-bioinfo-workflow",
-    "updated_at": 1776149900.0
+    "updated_at": 1776345948.0
   },
   {
     "full_name": "miraSantos/env_bio_covid",
