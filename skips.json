@@ -752,10 +752,6 @@
     "updated_at": 1731609344.0
   },
   {
-    "full_name": "BIMSBbioinfo/pycacher",
-    "updated_at": 1774022671.0
-  },
-  {
     "full_name": "BPRC-Bioinfo/LRS-Assembler",
     "updated_at": 1742556280.0
   },
@@ -1082,10 +1078,6 @@
   {
     "full_name": "CNAG-Biomedical-Informatics/cbicall",
     "updated_at": 1773420781.0
-  },
-  {
-    "full_name": "CNowack/LSR_discovery",
-    "updated_at": 1773862422.0
   },
   {
     "full_name": "COMBINE-lab/lr_quant_benchmarks",
