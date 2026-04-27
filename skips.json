@@ -2309,7 +2309,7 @@
   },
   {
     "full_name": "HZAUCottonLab/SNAP-HiC-Diff_v2",
-    "updated_at": 1776847218.0
+    "updated_at": 1777019216.0
   },
   {
     "full_name": "Hamzaamhal09/Automatized-Varaint-calling-calling-SBCC",
@@ -9712,6 +9712,10 @@
     "updated_at": 1774197010.0
   },
   {
+    "full_name": "eholdmore/telomere_analysis_pipeline",
+    "updated_at": 1776974769.0
+  },
+  {
     "full_name": "eirikhoye/airr_tools",
     "updated_at": 1654768129.0
   },
@@ -13573,7 +13577,7 @@
   },
   {
     "full_name": "merceavanessa/leo-orbital-decay-rate-impacts-may-2024",
-    "updated_at": 1773945190.0
+    "updated_at": 1776956555.0
   },
   {
     "full_name": "mercedesmonterov/contaminomics",
@@ -14290,6 +14294,10 @@
   {
     "full_name": "ncsl/seek",
     "updated_at": 1636889369.0
+  },
+  {
+    "full_name": "nculiujy/APIARC",
+    "updated_at": 1777002474.0
   },
   {
     "full_name": "nd-nehadaga/ChIP-seq_analysis",
@@ -18246,6 +18254,10 @@
   {
     "full_name": "wassermanlab/ExplaiNN",
     "updated_at": 1651024957.0
+  },
+  {
+    "full_name": "waterlandlab/CoRSIV2.0",
+    "updated_at": 1776978864.0
   },
   {
     "full_name": "wcfunk/rapr-ddrad-smk",
