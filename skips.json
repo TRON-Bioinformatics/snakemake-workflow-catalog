@@ -15320,10 +15320,6 @@
     "updated_at": 1693986031.0
   },
   {
-    "full_name": "pyranges/benchmarks",
-    "updated_at": 1758542917.0
-  },
-  {
     "full_name": "pyrevo/sopa_test",
     "updated_at": 1763538747.0
   },
@@ -16890,10 +16886,6 @@
   {
     "full_name": "snakemake/snakefmt",
     "updated_at": 1773981465.0
-  },
-  {
-    "full_name": "snakemake/snakemake-cluster-profiles",
-    "updated_at": 1773389425.0
   },
   {
     "full_name": "snakemake/snakemake-executor-plugin-googlebatch",
