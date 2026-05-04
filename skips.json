@@ -7381,7 +7381,7 @@
   },
   {
     "full_name": "banskt/psychgen",
-    "updated_at": 1776278834.0
+    "updated_at": 1777571500.0
   },
   {
     "full_name": "barbavegeta/barbavegeta",
@@ -12302,6 +12302,10 @@
   {
     "full_name": "klundquist/sars-cov2-variant-analysis",
     "updated_at": 1742509618.0
+  },
+  {
+    "full_name": "kmakowska22-glitch/egfr-inhibitor-prediction",
+    "updated_at": 1777561066.0
   },
   {
     "full_name": "kmarianski/WES_nextflow_and_snakemake",
