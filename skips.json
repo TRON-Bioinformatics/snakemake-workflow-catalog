@@ -2697,7 +2697,7 @@
   },
   {
     "full_name": "Jin-HoMLee/splice-neoepitope-pipeline",
-    "updated_at": 1777244287.0
+    "updated_at": 1777833129.0
   },
   {
     "full_name": "JiyaChachan/IS477_final_project",
@@ -3457,7 +3457,7 @@
   },
   {
     "full_name": "ManHUU/snakemake-gatk-rna-workflow",
-    "updated_at": 1774430651.0
+    "updated_at": 1777832093.0
   },
   {
     "full_name": "MangiolaLaboratory/HPCell",
@@ -9317,7 +9317,7 @@
   },
   {
     "full_name": "digitaltumors/hdd-data-pipeline",
-    "updated_at": 1774971842.0
+    "updated_at": 1777844122.0
   },
   {
     "full_name": "dikshyantg/HLA.report_parser",
@@ -12950,6 +12950,10 @@
   {
     "full_name": "lukasmasuch/best-of-ml-python",
     "updated_at": 1774247611.0
+  },
+  {
+    "full_name": "lukejm5/LG",
+    "updated_at": 1777793659.0
   },
   {
     "full_name": "lulujiang219/rnaseq-final-project",
