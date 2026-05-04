@@ -317,7 +317,7 @@
   },
   {
     "full_name": "AlgoLab/pygfa",
-    "updated_at": 1777224392.0
+    "updated_at": 1777716613.0
   },
   {
     "full_name": "AliA-Mohamed/AliA-Mohamed",
@@ -6720,6 +6720,10 @@
     "updated_at": 1758583137.0
   },
   {
+    "full_name": "alexcai05/sp26-is477-aplusplus",
+    "updated_at": 1777744014.0
+  },
+  {
     "full_name": "alexhbnr/automatic_MAG_refinement",
     "updated_at": 1643381444.0
   },
@@ -6930,6 +6934,10 @@
   {
     "full_name": "andrew-e/genepi-pipeline",
     "updated_at": 1686817989.0
+  },
+  {
+    "full_name": "andrew-soborowski/rna_seq_snakemake_pipeline",
+    "updated_at": 1777644472.0
   },
   {
     "full_name": "andrewgull/HeteroR",
@@ -13768,6 +13776,10 @@
     "updated_at": 1767006812.0
   },
   {
+    "full_name": "mishaploid/Bo-demography",
+    "updated_at": 1777667885.0
+  },
+  {
     "full_name": "mitchguttman/CLAP",
     "updated_at": 1744214206.0
   },
@@ -14309,7 +14321,7 @@
   },
   {
     "full_name": "nextstrain/forecasts-ncov",
-    "updated_at": 1776723636.0
+    "updated_at": 1777658231.0
   },
   {
     "full_name": "nextstrain/ncov-ingest",
