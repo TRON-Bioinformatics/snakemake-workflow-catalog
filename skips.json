@@ -2689,7 +2689,7 @@
   },
   {
     "full_name": "Jiayi-Wang-Joey/variant-comparison",
-    "updated_at": 1777448204.0
+    "updated_at": 1777977882.0
   },
   {
     "full_name": "JigeeshaM5/Fungal-assembly-and-annotation",
@@ -3469,7 +3469,7 @@
   },
   {
     "full_name": "ManHUU/snakemake-gatk-rna-workflow",
-    "updated_at": 1777832093.0
+    "updated_at": 1777891926.0
   },
   {
     "full_name": "MangiolaLaboratory/HPCell",
@@ -5090,6 +5090,10 @@
   {
     "full_name": "Shakeel211/snakemake_variants-call",
     "updated_at": 1762752310.0
+  },
+  {
+    "full_name": "ShalmaliHKadam/rnaseq-pipeline",
+    "updated_at": 1777956024.0
   },
   {
     "full_name": "ShaodongWei/ProteoFlow",
