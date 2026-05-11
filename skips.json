@@ -9060,6 +9060,10 @@
     "updated_at": 1757764102.0
   },
   {
+    "full_name": "danielchoi0315/agency-budgeted-myoelectric-benchmark",
+    "updated_at": 1778343891.0
+  },
+  {
     "full_name": "danielecook/Awesome-Bioinformatics",
     "updated_at": 1772399670.0
   },
@@ -10226,6 +10230,10 @@
   {
     "full_name": "freqMG/sza_prs_mg",
     "updated_at": 1750774741.0
+  },
+  {
+    "full_name": "freshtuo/GRCF_CNV_calling",
+    "updated_at": 1778273828.0
   },
   {
     "full_name": "friendsofstrandseq/ashleys-qc-pipeline",
@@ -15818,6 +15826,10 @@
   {
     "full_name": "rmhubley/workflow-patterns",
     "updated_at": 1759357917.0
+  },
+  {
+    "full_name": "rnabioco/2a-peptide-search",
+    "updated_at": 1778252949.0
   },
   {
     "full_name": "rnaimehaom/iWES-genotyper",
