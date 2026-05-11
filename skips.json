@@ -7405,7 +7405,7 @@
   },
   {
     "full_name": "banskt/psychgen",
-    "updated_at": 1777571500.0
+    "updated_at": 1778095923.0
   },
   {
     "full_name": "barbavegeta/barbavegeta",
@@ -8254,6 +8254,10 @@
   {
     "full_name": "cbib/nbd_extraction_pipeline",
     "updated_at": 1776160984.0
+  },
+  {
+    "full_name": "cbib/snakemake_tcga_survival",
+    "updated_at": 1778159735.0
   },
   {
     "full_name": "cbib/uncertainty_aware_lnclassifier",
