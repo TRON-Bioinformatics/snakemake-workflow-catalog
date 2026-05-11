@@ -3833,7 +3833,7 @@
   },
   {
     "full_name": "NBISweden/GenErode",
-    "updated_at": 1749633692.0
+    "updated_at": 1778246174.0
   },
   {
     "full_name": "NBISweden/assembly-project-template",
@@ -5021,7 +5021,7 @@
   },
   {
     "full_name": "Seandersen/RADS",
-    "updated_at": 1776270601.0
+    "updated_at": 1778181937.0
   },
   {
     "full_name": "SebastianDall/MicroPouch",
@@ -6117,7 +6117,7 @@
   },
   {
     "full_name": "Yuanwei-source/OmniQuant-RNA",
-    "updated_at": 1775329375.0
+    "updated_at": 1778175185.0
   },
   {
     "full_name": "Yuanzhou-W/Panphylogeny_yz_workflow",
@@ -6426,6 +6426,10 @@
   {
     "full_name": "adjohnston85/Lamia",
     "updated_at": 1717639899.0
+  },
+  {
+    "full_name": "adly2/SARS-CoV-2-Host-Transcriptional-Response-Reanalysis",
+    "updated_at": 1778431400.0
   },
   {
     "full_name": "admixVIE/gas",
@@ -10366,6 +10370,10 @@
   {
     "full_name": "gaolabtools/scNanoGPS",
     "updated_at": 1747527272.0
+  },
+  {
+    "full_name": "gaopeigi3/project_annotation",
+    "updated_at": 1778222520.0
   },
   {
     "full_name": "gapskris/awesome-production-machine-learning",
