@@ -317,7 +317,7 @@
   },
   {
     "full_name": "AlgoLab/pygfa",
-    "updated_at": 1778858288.0
+    "updated_at": 1779689918.0
   },
   {
     "full_name": "AliA-Mohamed/AliA-Mohamed",
@@ -8536,6 +8536,10 @@
     "updated_at": 1773364728.0
   },
   {
+    "full_name": "chiba-ai-med/guidedPLS-experiments-bulk",
+    "updated_at": 1779684284.0
+  },
+  {
     "full_name": "chooliu/snm3Cseq_Pipeline",
     "updated_at": 1716221170.0
   },
@@ -10753,7 +10757,7 @@
   },
   {
     "full_name": "habibdanesh/epigenome-ssm",
-    "updated_at": 1774236183.0
+    "updated_at": 1779684420.0
   },
   {
     "full_name": "hackerzone85/Microbiome_Analysis_DIAMOND_MEGAN_Pipeline",
@@ -14409,7 +14413,7 @@
   },
   {
     "full_name": "nextstrain/ncov-ingest",
-    "updated_at": 1774974837.0
+    "updated_at": 1779681156.0
   },
   {
     "full_name": "nextstrain/ncov-simple",
@@ -17905,7 +17909,7 @@
   },
   {
     "full_name": "tylermaire/cx_pipiens_pangenome",
-    "updated_at": 1778939289.0
+    "updated_at": 1779663059.0
   },
   {
     "full_name": "tyongo/rnaseq-differential-expression-pipeline",
