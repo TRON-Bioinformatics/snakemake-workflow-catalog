@@ -8096,10 +8096,6 @@
     "updated_at": 1759828881.0
   },
   {
-    "full_name": "calliope-project/module_heat_europe",
-    "updated_at": 1763122918.0
-  },
-  {
     "full_name": "caltech-bioinformatics-resource-center/Guttman_Ismagilov_Labs",
     "updated_at": 1646084839.0
   },
@@ -9034,10 +9030,6 @@
   {
     "full_name": "dabble-of-devops-bioanalyze/terraform-helm-merge-values",
     "updated_at": 1639401717.0
-  },
-  {
-    "full_name": "dadrasarmin/dadrasarmin",
-    "updated_at": 1754759336.0
   },
   {
     "full_name": "dadrasarmin/rnaseq_quantification_kallisto_pipeline",
