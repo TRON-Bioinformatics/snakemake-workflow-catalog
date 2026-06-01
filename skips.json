@@ -1773,7 +1773,7 @@
   },
   {
     "full_name": "Erleyl/MosquitoBloodMeal",
-    "updated_at": 1778464320.0
+    "updated_at": 1779707073.0
   },
   {
     "full_name": "EskelandLab/ANDA",
@@ -11772,6 +11772,10 @@
     "updated_at": 1743634623.0
   },
   {
+    "full_name": "jjevans25/Nerve_Analysis_TCGA_GBM",
+    "updated_at": 1779742657.0
+  },
+  {
     "full_name": "jjjermiah/GCP-for-genomicworkflows",
     "updated_at": 1693766723.0
   },
@@ -15370,6 +15374,10 @@
   {
     "full_name": "powellgenomicslab/tenk10k-causal-paper",
     "updated_at": 1757469977.0
+  },
+  {
+    "full_name": "powellgenomicslab/tenk10k-effector-genes",
+    "updated_at": 1779767842.0
   },
   {
     "full_name": "pparikh1020/kallisto_workflow",
