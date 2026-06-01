@@ -13532,10 +13532,6 @@
     "updated_at": 1769518480.0
   },
   {
-    "full_name": "meg256/havtyper",
-    "updated_at": 1743134723.0
-  },
-  {
     "full_name": "meirwah/awesome-workflow-engines",
     "updated_at": 1771125309.0
   },
@@ -14400,10 +14396,6 @@
     "updated_at": 1762820923.0
   },
   {
-    "full_name": "nezba00/scDINO",
-    "updated_at": 1773826437.0
-  },
-  {
     "full_name": "nfdi4health/docker-vambn",
     "updated_at": 1721753496.0
   },
@@ -14552,10 +14544,6 @@
     "updated_at": 1744212527.0
   },
   {
-    "full_name": "not-that-guy-again/bioAF",
-    "updated_at": 1773635349.0
-  },
-  {
     "full_name": "npbhavya/bacterial-genome-assembly",
     "updated_at": 1647128772.0
   },
@@ -14570,10 +14558,6 @@
   {
     "full_name": "nrminor/nf-templates",
     "updated_at": 1668016277.0
-  },
-  {
-    "full_name": "nsflores1/zeitcache",
-    "updated_at": 1762297629.0
   },
   {
     "full_name": "nurgasemetey/github-stars",
@@ -14662,10 +14646,6 @@
   {
     "full_name": "ohsu-cedar-comp-hub/AMLClock",
     "updated_at": 1767731401.0
-  },
-  {
-    "full_name": "ohsu-comp-bio/awesome-tes",
-    "updated_at": 1733531626.0
   },
   {
     "full_name": "oicr-gsi/mavis3",
@@ -14792,10 +14772,6 @@
     "updated_at": 1769607830.0
   },
   {
-    "full_name": "oncologylab/episcope",
-    "updated_at": 1769202929.0
-  },
-  {
     "full_name": "oncoray/PGT_Modeling",
     "updated_at": 1770396372.0
   },
@@ -14826,14 +14802,6 @@
   {
     "full_name": "opencv-korea/DL",
     "updated_at": 1658673695.0
-  },
-  {
-    "full_name": "opentargets/genetics-v2d-data",
-    "updated_at": 1644600900.0
-  },
-  {
-    "full_name": "opentargets/genetics-v2g-data",
-    "updated_at": 1646685833.0
   },
   {
     "full_name": "openvax/neoantigen-vaccine-pipeline",
@@ -14974,10 +14942,6 @@
   {
     "full_name": "paulimer/RNA-seq-analysis-pipeline",
     "updated_at": 1631629080.0
-  },
-  {
-    "full_name": "paulinapglz99/herv-brain-atlas",
-    "updated_at": 1779121943.0
   },
   {
     "full_name": "paulinarosales/celegans-rna-seq-snakemake-pipeline",
