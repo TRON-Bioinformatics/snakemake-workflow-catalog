@@ -1325,7 +1325,7 @@
   },
   {
     "full_name": "DIT-HAP/DIT_HAP_pipeline",
-    "updated_at": 1772869629.0
+    "updated_at": 1780909522.0
   },
   {
     "full_name": "DIT-HAP/DIT_HAP_streamlit",
@@ -2757,7 +2757,7 @@
   },
   {
     "full_name": "Jtearwicker/tess-megastructures",
-    "updated_at": 1779929849.0
+    "updated_at": 1780968945.0
   },
   {
     "full_name": "JuNi-2000/Genome_Assembly_Annotation",
@@ -7338,6 +7338,10 @@
   {
     "full_name": "bacteriunter/bacillus-osmo",
     "updated_at": 1772491492.0
+  },
+  {
+    "full_name": "bacteriunter/bacillus-transcriptomics-salt",
+    "updated_at": 1780956766.0
   },
   {
     "full_name": "baerlachlan/smk-cluster-generic-slurm",
