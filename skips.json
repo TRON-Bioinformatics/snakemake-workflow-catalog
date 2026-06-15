@@ -3516,6 +3516,10 @@
     "updated_at": 1758637152.0
   },
   {
+    "full_name": "Matthew-Marmon/pd-rnaseq-pipeline",
+    "updated_at": 1781120762.0
+  },
+  {
     "full_name": "Matthijnssenslab/Beestat",
     "updated_at": 1683807369.0
   },
@@ -7385,7 +7389,7 @@
   },
   {
     "full_name": "banskt/psychgen",
-    "updated_at": 1780075843.0
+    "updated_at": 1781402951.0
   },
   {
     "full_name": "barbavegeta/barbavegeta",
@@ -7861,7 +7865,7 @@
   },
   {
     "full_name": "blab/ncov-saltational",
-    "updated_at": 1780186007.0
+    "updated_at": 1781134174.0
   },
   {
     "full_name": "blekhmanlab/compendium",
@@ -7969,7 +7973,7 @@
   },
   {
     "full_name": "broadinstitute/qprimer_designer",
-    "updated_at": 1779549305.0
+    "updated_at": 1781188074.0
   },
   {
     "full_name": "brooklabteam/ncov-Madagascar",
@@ -14369,7 +14373,7 @@
   },
   {
     "full_name": "nextstrain/ncov-ingest",
-    "updated_at": 1779681156.0
+    "updated_at": 1781197337.0
   },
   {
     "full_name": "nextstrain/ncov-simple",
@@ -15785,7 +15789,7 @@
   },
   {
     "full_name": "rivm-syso/FOTO-NL",
-    "updated_at": 1775814519.0
+    "updated_at": 1781164176.0
   },
   {
     "full_name": "rjhunter999/histology_with_cnns",
@@ -18602,6 +18606,10 @@
   {
     "full_name": "yoshihikosuzuki/snakeproc",
     "updated_at": 1659957645.0
+  },
+  {
+    "full_name": "you27-mohamed/OCToPUS-snakemake",
+    "updated_at": 1781131873.0
   },
   {
     "full_name": "yoyo4581/wgs-pipeline-aws-parallelcluster",
