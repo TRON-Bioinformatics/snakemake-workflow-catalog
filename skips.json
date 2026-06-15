@@ -3557,7 +3557,7 @@
   },
   {
     "full_name": "Mayorcool-lab/ogunbiome-Insight-pipeline",
-    "updated_at": 1778424967.0
+    "updated_at": 1781418779.0
   },
   {
     "full_name": "MayroseLab/gene_structure_evolution",
@@ -5390,6 +5390,10 @@
   {
     "full_name": "TNTurnerLab/fitDNM",
     "updated_at": 1648057755.0
+  },
+  {
+    "full_name": "TRON-Bioinformatics/oblx",
+    "updated_at": 1781505754.0
   },
   {
     "full_name": "TTTPOB/fastq-downloader",
@@ -15116,6 +15120,10 @@
     "updated_at": 1676024212.0
   },
   {
+    "full_name": "pipelinepilot1999/rnaseq-brca-pipeline",
+    "updated_at": 1781462389.0
+  },
+  {
     "full_name": "pirl-unc/coding-guidelines",
     "updated_at": 1650049780.0
   },
@@ -18826,6 +18834,10 @@
   {
     "full_name": "zoey-rw/SoilMicrobeDB",
     "updated_at": 1767816370.0
+  },
+  {
+    "full_name": "zouyinstein/hifisr",
+    "updated_at": 1781432093.0
   },
   {
     "full_name": "zpf0117b/CLMB",
