@@ -7,8 +7,33 @@ on:
     branches: [main]
 
 jobs:
-  generate-catalog:
+  update-lockfile:
     if: github.event_name == 'schedule' || github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: prefix-dev/setup-pixi@v0
+        with:
+          cache: true
+
+      - name: Update pixi.lock
+        run: pixi update
+
+      - name: Commit updated lockfile
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Update pixi.lock" pixi.lock || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+  generate-catalog:
+    needs: update-lockfile
     runs-on: ubuntu-latest
     strategy:
       matrix:
