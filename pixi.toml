@@ -23,6 +23,7 @@ sphinxcontrib-jquery = ">=4.1,<5"
 sphinx-datatables = ">=1.0.0,<2"
 sphinxext-altair = ">=0.2.0,<0.3"
 graphviz = ">=14.1.2,<15"
+git = ">=2.54.0,<3"
 
 [pypi-dependencies]
 dagviz = ">=0.6.0, <0.7"
