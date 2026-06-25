@@ -24,6 +24,7 @@ sphinx-datatables = ">=1.0.0,<2"
 sphinxext-altair = ">=0.2.0,<0.3"
 graphviz = ">=14.1.2,<15"
 git = ">=2.54.0,<3"
+snakemake-storage-plugin-http = ">=0.3.1,<0.4"
 
 [pypi-dependencies]
 dagviz = ">=0.6.0, <0.7"
