@@ -4397,7 +4397,7 @@
   },
   {
     "full_name": "Perrotn/LR_WGS_tertiary_analysis_pipeline",
-    "updated_at": 1782253906.0
+    "updated_at": 1782673858.0
   },
   {
     "full_name": "Peter-J-Freeman/SnakemakeSTP",
@@ -5150,6 +5150,10 @@
   {
     "full_name": "ShouWenWang-Lab/MosaicLineage",
     "updated_at": 1734525425.0
+  },
+  {
+    "full_name": "Shukrruthi/clinical_tumor_only_wes",
+    "updated_at": 1782652535.0
   },
   {
     "full_name": "Shuozhen/2024_ISB_workshop_Practical_Methods_in_Spatial-Omics",
@@ -7018,6 +7022,10 @@
   {
     "full_name": "annefou/fiesta-galaxy-cellprofiler-eo",
     "updated_at": 1782210690.0
+  },
+  {
+    "full_name": "annefou/healpix-analyse-s2-powerspectrum",
+    "updated_at": 1782662519.0
   },
   {
     "full_name": "annotifyapp/.github",
@@ -15413,7 +15421,7 @@
   },
   {
     "full_name": "pypsa-meets-earth/pypsa-northamerica",
-    "updated_at": 1782291917.0
+    "updated_at": 1782712598.0
   },
   {
     "full_name": "pypsa-meets-earth/pypsa-zm-data",
