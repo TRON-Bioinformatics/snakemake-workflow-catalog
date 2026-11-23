@@ -5597,7 +5597,7 @@
   },
   {
     "full_name": "TerpmikaelAAU/T2T_fungal_genome_pipeline",
-    "updated_at": 1792781340.0
+    "updated_at": 1793867257.0
   },
   {
     "full_name": "TharunH718/Next-Generation-Sequencing-Based-Pipeline-for-Rapid-Pathogen-Detection-and-Classification",
@@ -7278,6 +7278,18 @@
   {
     "full_name": "argsortium/argsortium-inference",
     "updated_at": 1766075514.0
+  },
+  {
+    "full_name": "arjunbioinfo/enhancer-gene-atac-rna-ctcf",
+    "updated_at": 1795144450.0
+  },
+  {
+    "full_name": "arjunbioinfo/multiomics-cancer-biomarker-ml",
+    "updated_at": 1795160797.0
+  },
+  {
+    "full_name": "arjunbioinfo/scrna-multidonor-pseudobulk",
+    "updated_at": 1795164227.0
   },
   {
     "full_name": "arleycalle/arleycalle",
